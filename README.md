@@ -1,2 +1,2 @@
-# remibookpro_15_2022_cachyos
+# remdibookpro_15_2022_cachyos
 ## Under construction
